@@ -1,5 +1,5 @@
 ### Olá :D
-I'm *Sarah*, a Junior Web Dev <♥> Always learning 🧸 <img src='./assets/pusheenpc.png' align='right' width=250px>
+I'm *Sarah*, a Junior Web Dev <♥> Always learning! <img src='./assets/pusheenpc.png' align='right' width=250px>
 
 <img src='./assets/home.gif' align=top> **Where to find me**
 
